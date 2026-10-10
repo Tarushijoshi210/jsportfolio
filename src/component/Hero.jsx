@@ -4,13 +4,13 @@ function Hero() {
            <div className="container hero-inner">
                <img
                    className="profile-img"
-                   src="photo.jpg"
+                   src="wp6815064.jpg"
                    alt="Profile photo of the student"
                    width="180"
                    height="180"
                />
                <div className="hero-text">
-                   <h1>Hi, I'm Your name</h1>
+                   <h1>Hi, I'm Tarushi joshi</h1>
                    <p className="subtitle">
                        First-year B.Tech student, Computer Science Engineering
                    </p>
